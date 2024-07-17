@@ -1,0 +1,7 @@
+{
+  "python.analysis.extraPaths": [
+    "./Email-Scraping-and-Parsing-Tool/Outlook",
+    "./Emails_Scrapping/Outlook",
+    "./Scrapping_Service/Outlook"
+  ]
+}

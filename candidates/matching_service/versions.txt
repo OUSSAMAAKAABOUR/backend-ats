@@ -1,0 +1,21 @@
+Version python: 11.5 (conda)
+try pip install --use-pep517 gensim==3.8.0 (gensim)
+
+gensim version: 4.3.2
+nltk version: 3.7
+numpy version: 1.23.5
+pandas version: 1.5.3
+plotly version: 5.9.0
+PyPDF2 version: 3.0.1
+
+pip install PyPDF2
+pip install python-docx
+# !pip install gensim
+# !pip install nltk
+# !pip install pandas
+# !pip install numpy
+# !pip install requests
+# !pip install PyPDF2
+# !pip install pdfminer.six
+# !pip install skillNer
+# !python -m spacy download en_core_web_lg
